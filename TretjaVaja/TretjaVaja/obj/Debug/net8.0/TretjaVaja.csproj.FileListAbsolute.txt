@@ -1,0 +1,15 @@
+C:\PRO12026\TretjaVaja\TretjaVaja\bin\Debug\net8.0\TretjaVaja.exe
+C:\PRO12026\TretjaVaja\TretjaVaja\bin\Debug\net8.0\TretjaVaja.deps.json
+C:\PRO12026\TretjaVaja\TretjaVaja\bin\Debug\net8.0\TretjaVaja.runtimeconfig.json
+C:\PRO12026\TretjaVaja\TretjaVaja\bin\Debug\net8.0\TretjaVaja.dll
+C:\PRO12026\TretjaVaja\TretjaVaja\bin\Debug\net8.0\TretjaVaja.pdb
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.AssemblyInfoInputs.cache
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.AssemblyInfo.cs
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.csproj.CoreCompileInputs.cache
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.sourcelink.json
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.dll
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\refint\TretjaVaja.dll
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.pdb
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\TretjaVaja.genruntimeconfig.cache
+C:\PRO12026\TretjaVaja\TretjaVaja\obj\Debug\net8.0\ref\TretjaVaja.dll
